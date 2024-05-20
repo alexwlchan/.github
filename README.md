@@ -22,3 +22,10 @@ Personal automation:
 Fun stuff:
 
 *   dominant colours
+*   Blink
+
+My websites:
+
+*   alexwlchan.net
+*   books.alexwlchan.net
+*   analytics.alexwlchan.net
